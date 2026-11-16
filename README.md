@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Datok95/Datok95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a programming enthusiast. Ive been learning Front-End development for about 3 years, most like a hobbie.
 
-Here are some ideas to get you started:
+###Tech Stack
+HTML 
+CSS 
+JS 
+REACT 
+PYTHON
+GIT && GITHUB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+trying to make programming a serious profession <3
+
+
